@@ -1,0 +1,24 @@
+/* Styles */
+
+body {
+  font-family: "Libre Baskerville", serif;
+  line-height: 1.5;
+}
+
+cite {
+  display: inline-block;
+  padding-bottom: 40px;
+}
+
+.lyrics {
+  line-height: 1.75;
+}
+
+.source {
+  padding-top: 25px;
+}
+
+.links {
+  padding: 0;
+  line-height: 2.5;
+}
